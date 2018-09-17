@@ -2,7 +2,7 @@
 # студент группы ИДБ-15-14 Муслимов Д.М.
 
 ## Лабораторная 1
-[Представление модели РАМУС в html](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_1/1.PNG?raw=true)
+[Представление модели РАМУС скриншот](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_1/1.PNG?raw=true)
 
 ## Лабораторная 2
 
