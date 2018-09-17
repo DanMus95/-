@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Студент" as Студент {
+ Компьютерная программа
+Решение Решение уравнение (Уравнение, Математические правила)
+}
+hide circle
+@enduml
