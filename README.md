@@ -15,14 +15,11 @@
 
 ### [Текст диаграммы](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_1/1.3.txt)
 
-## Лабораторная 2
+## Лабораторная 2-3
+### IDEF0 (png)
+![](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_2/2.PNG?raw=true)
 
-## Лабораторная 3
+### Plan-Do-Check (png)
+![](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_2/3.PNG?raw=true)
 
-## Лабораторная 4
-
-## Лабораторная 5
-
-## Лабораторная 6
-
-## Лабораторная 7
+## Лабораторная 4-7
