@@ -16,10 +16,13 @@
 ### [Текст диаграммы](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_1/1.3.txt)
 
 ## Лабораторная 2-3
-### IDEF0:
+### IDEF0 модель:
+![](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_2/1.PNG?raw=true)
+
+### PDC модель:
 ![](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_2/2.PNG?raw=true)
 
-### Plan-Do-Check:
+### DFD Plan:
 ![](https://github.com/DanMus95/pis_labs.github.io/blob/master/Lab_2/3.PNG?raw=true)
 
 ## Лабораторная 4-7
